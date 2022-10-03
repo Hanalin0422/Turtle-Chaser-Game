@@ -22,6 +22,6 @@
 <img width="708" alt="image" src="https://user-images.githubusercontent.com/78638427/193578577-67e5f434-2cec-4989-bf9f-267e9aaeda31.png">  
 4. 게임에서 지는 방법
 - 주어진 시간 안에 점수를 채우지 못한다.
-<img width="707" alt="image" src="https://user-images.githubusercontent.com/78638427/193577711-887d797a-8349-4ebb-a3a0-65f2d1469a44.png">
+<img width="709" alt="image" src="https://user-images.githubusercontent.com/78638427/193580175-3f1e036a-15ec-4e88-bc67-9f0807715051.png">
 - 처음부터 파란 거북이에게 잡힌다.
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/78638427/193577911-4a21dc39-f9be-45d5-80c3-238b06265250.png">
